@@ -1,0 +1,3 @@
+serializer :- complez data such as queryset and instance model convert to python native data. expample:-  complext to json data
+
+deserializer = python native data to convert complex data, expample := json to complex
